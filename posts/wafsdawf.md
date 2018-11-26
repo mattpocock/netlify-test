@@ -1,4 +1,4 @@
 ---
-title: wafsdawf
+title: Changed the title to something else
 ---
-asdawfasd
+Wow, how cool this is!
